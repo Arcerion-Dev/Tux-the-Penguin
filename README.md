@@ -1,11 +1,129 @@
-<!--
-**The-Anonymous-Chicken/The-Anonymous-Chicken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
 <details open>
-<summary>How do I dropdown?</summary>
+<summary>။<၄About Me၃>။</summary>
 <br>
-This is how you dropdown.
+Hello, I am The Anonymous Chicken.
+  Why am I called that?
+  Well, I am anonymous, and I guess I like Chickens.
+</details>
+ 
+ <details>
+<summary>More</summary>
+<br>
+<details>
+<summary> Even More...</summary>
+<br>
+  <details>
+<summary> Even More...</summary>
+<br>
+<details>
+<summary> Even More...</summary>
+<br>
+    <details>
+<summary> Even More...</summary>
+<br>
+<details>
+<summary> Even More...</summary>
+<br>
+    <details>
+<summary> Even More...</summary>
+<br>
+<details>
+<summary> Even More...</summary>
+<br>
+  <details>
+<summary> Even More...</summary>
+<br>
+  <details>
+<summary> Even More...</summary>
+<br>
+<details>
+<summary> Even More...</summary>
+<br>
+    <details>
+<summary> Even More...</summary>
+<br>
+<details>
+<summary> Even More...</summary>
+<br>
+    <details>
+<summary> Even More...</summary>
+<br>
+<details>
+<summary> Even More...</summary>
+<br>
+  <details>
+<summary> Even More...</summary>
+<br>
+  <details>
+<summary> Even More...</summary>
+<br>
+<details>
+<summary> Even More...</summary>
+<br>
+    <details>
+<summary> Even More...</summary>
+<br>
+<details>
+<summary> Even More...</summary>
+<br>
+    <details>
+<summary> Even More...</summary>
+<br>
+<details>
+<summary> Even More...</summary>
+<br>
+  <details>
+<summary> Even More...</summary>
+<br>
+  <details>
+<summary> Even More...</summary>
+<br>
+<details>
+<summary> Even More...</summary>
+<br>
+    <details>
+<summary> Even More...</summary>
+<br>
+<details>
+<summary> Even More...</summary>
+<br>
+    <details>
+<summary> Even More...</summary>
+<br>
+<details>
+<summary> Even More...</summary>
+<br>
+  <details>
+<summary> Even More...</summary>
+<br>
+  <details>
+<summary> Even More...</summary>
+<br>
+<details>
+<summary> Even More...</summary>
+<br>
+    <details>
+<summary> Even More...</summary>
+<br>
+<details>
+<summary> Even More...</summary>
+<br>
+    <details>
+<summary> Even More...</summary>
+<br>
+<details>
+<summary> Even More...</summary>
+<br>
+ Input Here
 </details>
 
+</details>
+
+</details>
+
+</details>
+
+</details>
+</details>
+</details>
+</details>
