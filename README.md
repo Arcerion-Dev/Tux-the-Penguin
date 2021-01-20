@@ -115,7 +115,7 @@ Hello, I am The Anonymous Chicken.
 <summary> Even More...</summary>
 <br>
 
-![Alt Text](https://download.www21.filehosting.org/5e1792962c643a0cd0326bfea254e651/BED0B215-7581-4B0B-9E5A-DAF97A818620.gif)
+[![C6BB4EDE-491B-4D83-A9BC-7F9B2FF68A7B.gif](https://s2.gifyu.com/images/C6BB4EDE-491B-4D83-A9BC-7F9B2FF68A7B.gif)](https://gifyu.com/image/Us20)
 </details>
 
 </details>
