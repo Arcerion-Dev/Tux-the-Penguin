@@ -115,7 +115,7 @@ Hello, I am The Anonymous Chicken.
 <summary> Even More...</summary>
 <br>
 Haha You Got Rick Rolled
-![Alt Text](https://github.com/The-Anonymous-Chicken/The-Anonymous-Chicken/blob/main/8505C19B-B3D3-4F1F-B532-B271D6FA94EE.gif)
+![Alt Text](https://download.www21.filehosting.org/5e1792962c643a0cd0326bfea254e651/BED0B215-7581-4B0B-9E5A-DAF97A818620.gif)
 </details>
 
 </details>
