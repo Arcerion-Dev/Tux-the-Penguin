@@ -114,7 +114,7 @@ Hello, I am The Anonymous Chicken.
 <details>
 <summary> Even More...</summary>
 <br>
- Input Here
+ ![](verySecret.gif)
 </details>
 
 </details>
