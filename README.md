@@ -4,34 +4,9 @@
 
 
 
-
-<details open>
-  <summary>>၄About Me၃<</summary>
-  <br>
-  I am The Anonymous Chicken, Why?
-  Because I am anonymous, and I guess I also like chickens.
-
+<details>
+<summary>How do I dropdown?</summary>
+<br>
+This is how you dropdown.
 </details>
 
-<details open>
-  <summary>More Arrows</summary>
-  <br>
-   
-
-</details>
-
-</details>
-
-<details open>
-  <summary> Even More Arrows...</summary>
-  <br>
-
-</details>
-
-</details>
-
-<details open>
-  <summary>Even Even More Arrows...</summary>
-  <br>
-
-</details>
