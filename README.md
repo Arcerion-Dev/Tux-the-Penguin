@@ -115,7 +115,7 @@ Hello, I am The Anonymous Chicken.
 <summary> Even More...</summary>
 <br>
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://github.com/The-Anonymous-Chicken/The-Anonymous-Chicken/blob/main/8505C19B-B3D3-4F1F-B532-B271D6FA94EE.gif)
 </details>
 
 </details>
