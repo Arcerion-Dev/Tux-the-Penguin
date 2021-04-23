@@ -1,52 +1,26 @@
-<details open>
-<summary>။<၄About Me၃>။</summary>
-<br>
-Hello, I am The Anonymous Chicken.
-  Why am I called that?
-  Well, I am anonymous, and I guess I like Chickens.
-</details>
- 
+"Nothing." want to see more?
+      
+  &#8595;
  <details>
-<summary>More</summary>
-<br>
+ <summary>More</summary>
+ <br>
 <details>
-<summary> Even More...</summary>
+<summary> &#8595; Even More...</summary>
 <br>
   <details>
 <summary> Even More...</summary>
 <br>
 <details>
-<summary> Even More...</summary>
+<summary> &#8595; Even More...</summary>
 <br>
     <details>
 <summary> Even More...</summary>
 <br>
 <details>
-<summary> Even More...</summary>
+<summary> &#8595; Even More...</summary>
 <br>
     <details>
-<summary> Even More...</summary>
-<br>
-<details>
-<summary> Even More...</summary>
-<br>
-  <details>
-<summary> Even More...</summary>
-<br>
-  <details>
-<summary> Even More...</summary>
-<br>
-<details>
-<summary> Even More...</summary>
-<br>
-    <details>
-<summary> Even More...</summary>
-<br>
-<details>
-<summary> Even More...</summary>
-<br>
-    <details>
-<summary> Even More...</summary>
+<summary> &#8595; Even More...</summary>
 <br>
 <details>
 <summary> Even More...</summary>
@@ -114,8 +88,29 @@ Hello, I am The Anonymous Chicken.
 <details>
 <summary> Even More...</summary>
 <br>
-
-[![C6BB4EDE-491B-4D83-A9BC-7F9B2FF68A7B.gif](https://s2.gifyu.com/images/C6BB4EDE-491B-4D83-A9BC-7F9B2FF68A7B.gif)](https://gifyu.com/image/Us20)
+  <details>
+<summary> Even More...</summary>
+<br>
+  <details>
+<summary> Even More...</summary>
+<br>
+<details>
+<summary> Even More...</summary>
+<br>
+    <details>
+<summary> Even More...</summary>
+<br>
+<details>
+<summary> Even More...</summary>
+<br>
+    <details>
+<summary> Even More...</summary>
+<br>
+<details>
+<summary> Even More...</summary>
+<br>
+&#8595; Get RickRolled in 2021 XD
+[![Get RickRolled in 2021](https://s2.gifyu.com/images/C6BB4EDE-491B-4D83-A9BC-7F9B2FF68A7B.gif)](https://gifyu.com/image/Us20)
 </details>
 
 </details>
