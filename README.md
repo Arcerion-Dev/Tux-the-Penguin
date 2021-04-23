@@ -26,7 +26,7 @@
 <summary> Even More...</summary>
 <br>
   <details>
-<summary> Even More...</summary>
+<summary> Even More... (its not infinite btw)</summary>
 <br>
   <details>
 <summary> Even More...</summary>
@@ -107,10 +107,11 @@
 <summary> Even More...</summary>
 <br>
 <details>
-<summary> Even More...</summary>
+<summary> Just one More...</summary>
 <br>
 &#8595; Get RickRolled in 2021 XD
-[![Get RickRolled in 2021](https://s2.gifyu.com/images/C6BB4EDE-491B-4D83-A9BC-7F9B2FF68A7B.gif)](https://gifyu.com/image/Us20)
+
+[![C6BB4EDE-491B-4D83-A9BC-7F9B2FF68A7B.gif](https://s2.gifyu.com/images/C6BB4EDE-491B-4D83-A9BC-7F9B2FF68A7B.gif)](https://gifyu.com/image/Us20)
 </details>
 
 </details>
