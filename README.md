@@ -1,8 +1,7 @@
-"Nothing." want to see more?
-      
+CLICK ME
   &#8595;
  <details>
- <summary>More</summary>
+ <summary> Click More</summary>
  <br>
 <details>
 <summary> &#8595; Even More...</summary>
@@ -101,10 +100,10 @@
 <summary> Even More...</summary>
 <br>
 <details>
-<summary> Even More...</summary>
+<summary> Even More... (cmon almost) </summary>
 <br>
     <details>
-<summary> Even More...</summary>
+<summary> Even More... (almost done)</summary>
 <br>
 <details>
 <summary> Just one More...</summary>
