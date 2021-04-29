@@ -27,7 +27,7 @@ CLICK ME
   <details>
 <summary> Even More... (its not infinite btw)</summary>
 <br>
-  <details>
+<details>
 <summary> Even More...</summary>
 <br>
 <details>
@@ -39,43 +39,10 @@ CLICK ME
 <details>
 <summary> Even More...</summary>
 <br>
-    <details>
-<summary> Even More...</summary>
-<br>
 <details>
 <summary> Even More...</summary>
 <br>
   <details>
-<summary> Even More...</summary>
-<br>
-  <details>
-<summary> Even More...</summary>
-<br>
-<details>
-<summary> Even More...</summary>
-<br>
-    <details>
-<summary> Even More...</summary>
-<br>
-<details>
-<summary> Even More...</summary>
-<br>
-    <details>
-<summary> Even More...</summary>
-<br>
-<details>
-<summary> Even More...</summary>
-<br>
-  <details>
-<summary> Even More...</summary>
-<br>
-  <details>
-<summary> Even More...</summary>
-<br>
-<details>
-<summary> Even More...</summary>
-<br>
-    <details>
 <summary> Even More...</summary>
 <br>
 <details>
